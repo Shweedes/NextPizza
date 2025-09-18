@@ -86,11 +86,29 @@
 ## 2.2 Интерфейс пользователя
 Мокапы (макеты) интерфейса находятся в папке `Mockups/` репозитория.
 (Здесь вы должны добавить описание и ссылки на ваши мокапы, как в примере)
-![*   Окно главной страницы с меню и акциями.](https://github.com/Shweedes/NextPizza/blob/main/mockups/image_2025-09-08_16-31-46.png)
+
+* Окно главной страницы с меню и акциями.
+  
+![* Окно главной страницы с меню и акциями.](https://github.com/Shweedes/NextPizza/blob/main/mockups/image_2025-09-08_16-31-46.png)
+
+* Окно страницы товара.
+  
 ![* Окно страницы товара.](https://github.com/Shweedes/NextPizza/blob/main/mockups/image_2025-09-08_16-32-02.png)
+
+* Окно страницы выбранного товара.
+
 ![* Окно страницы выбранного товара.](https://github.com/Shweedes/NextPizza/blob/main/mockups/image_2025-09-08_16-32-15.png)
+
+* Окно корзины.
+
 ![* Окно корзины.](https://github.com/Shweedes/NextPizza/blob/main/mockups/image_2025-09-08_16-32-53.png)
+
+* Окно оформления заказа.
+
 ![* Окно оформления заказа.](https://github.com/Shweedes/NextPizza/blob/main/mockups/image_2025-09-08_16-33-05.png)
+
+* Окно заказов пользователя
+
 ![* Окно заказов пользователя](https://github.com/Shweedes/NextPizza/blob/main/mockups/image_2025-09-08_16-33-25.png)
 
 <a name="user_specifications"/>
