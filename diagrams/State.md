@@ -14,6 +14,6 @@
 
 ![Вход в учетную запись](https://github.com/Shweedes/NextPizza/blob/main/diagrams/images/State2.png)
 
-### 3. Процесс оформления заказа<a name="3"></a>
+### 3. Процесс поиска товара<a name="3"></a>
 
-![Процесс оформления заказа](https://github.com/Shweedes/NextPizza/blob/main/diagrams/images/State3.png)
+![Процесс поиска товара](https://github.com/Shweedes/NextPizza/blob/main/diagrams/images/State3.png)
