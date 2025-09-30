@@ -5,4 +5,4 @@
 
 ### 1. Процесс оформления заказа<a name="1"></a>
 
-![Процесс оформления заказа]()
+![Процесс оформления заказа](https://github.com/Shweedes/NextPizza/blob/main/diagrams/images/Activity.jpg)
