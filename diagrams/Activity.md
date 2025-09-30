@@ -10,4 +10,4 @@
 
 ### 1. Процесс авторизации<a name="2"></a>
 
-![Процесс авторизации]()
+![Процесс авторизации](https://github.com/Shweedes/NextPizza/blob/main/diagrams/images/Activity2.png)
