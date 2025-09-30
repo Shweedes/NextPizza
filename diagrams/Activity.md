@@ -8,6 +8,6 @@
 
 ![Процесс оформления заказа](https://github.com/Shweedes/NextPizza/blob/main/diagrams/images/Activity.png)
 
-### 1. Процесс авторизации<a name="2"></a>
+### 2. Процесс авторизации<a name="2"></a>
 
 ![Процесс авторизации](https://github.com/Shweedes/NextPizza/blob/main/diagrams/images/Activity2.png)
