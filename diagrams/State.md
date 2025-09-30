@@ -6,4 +6,4 @@
 
 ### 1. Оформление заказа<a name="1"></a>
 
-![Оформление заказа]()
+![Оформление заказа](https://github.com/Shweedes/NextPizza/blob/main/diagrams/images/State.png)
