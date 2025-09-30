@@ -11,4 +11,4 @@
 
 ### 2. Вход в учетную запись<a name="1"></a>
 
-![Вход в учетную запись]()
+![Вход в учетную запись](https://github.com/Shweedes/NextPizza/blob/main/diagrams/images/State2.png)
