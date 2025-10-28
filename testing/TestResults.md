@@ -1,10 +1,5 @@
 # NextPizza — Test Results
 
-## Executive Summary
-**Testing Period**: [Дата начала] - [Дата окончания]  
-**Test Environment**: Chrome 115+, Firefox 110+, Safari 15+, Mobile iOS 14+/Android 10+  
-**Overall Result**: ✅ **PASS** - Application ready for production release
-
 ## Detailed Test Results
 
 | ID  | Purpose | Scenario | Expected Result | Actual Result | Pass/Fail | Notes |
@@ -34,11 +29,6 @@
 | TC23 | Security - HTTPS | Verify all pages use HTTPS | Secure connection throughout | HTTPS enforced on all pages | Pass | |
 | TC24 | Quick Order Flow | 1. Login<br>2. Add favorite pizza to cart<br>3. Use saved address<br>4. Order | Order in ≤3 clicks from main page | Order completed in 3 clicks for returning user | Pass | |
 
-## Defects Summary
-**Critical Defects**: 0  
-**Major Defects**: 0  
-**Minor Defects**: 2  
-**Total Defects**: 2
 
 ### Defect Details:
 1. **Minor**: Promo code input retains value after successful application
