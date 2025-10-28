@@ -7,7 +7,6 @@ This document describes the test strategy, objectives, and scope for the NextPiz
 The following components are subject to testing:
 - **NextPizza Frontend**: Next.js-based user interface for customer interactions
 - **Backend API**: REST API for menu, cart, orders, and authentication
-- **Payment Integration**: External payment gateway (Stripe/CloudPayments)
 - **Database**: User data, menu items, and order storage
 - **Integrated System**: End-to-end workflow from UI to order completion
 
